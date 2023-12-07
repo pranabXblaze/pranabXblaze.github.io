@@ -47,11 +47,11 @@ function checkAnswer(currentLevel) {
     }
     else {
     playSound("wrong");
-    $("body").addClass("game-over");
+    $("#game").addClass("game-over");
     $("h2").text("Game Over!!, Press Any Key Or Touch the orange button to Restart.");
 
     setTimeout(function () {
-        $("body").removeClass("game-over");
+        $("#game").removeClass("game-over");
     }, 500);
 
     startOver();
