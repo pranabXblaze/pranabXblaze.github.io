@@ -21,7 +21,7 @@ function nextSequence(){
     $("#"+randomChosenColor).fadeIn(100).fadeOut(100).fadeIn(100);
     //js sounds
     playSound(randomChosenColor);
-    //animatePress(randomChosenColor);
+    animatePress(randomChosenColor);
 }
 
 function playSound(name){
