@@ -5,4 +5,4 @@ This project consists a game based on memory.
 Have a play around with it.Enjoy it.📱
 
 The Simon game :
-https://pranab-xloader-069d67.netlify.app/
+https://pranab-kumar-9879.netlify.app/
