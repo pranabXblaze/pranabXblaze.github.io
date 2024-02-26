@@ -10,5 +10,3 @@ Currently, two official plugins are available:
 # Todo-App
 
 A simple todo app for maintaining your schedule.
-
-[Log onto :](https://pranabXblaze.github.io) to see the todo App
